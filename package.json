@@ -1,0 +1,21 @@
+{
+  "name": "wechat_spider",
+  "version": "1.0.0",
+  "description": "Wechat Spider",
+  "main": "index.js",
+  "dependencies": {
+    "anyproxy": "^3.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat_spider",
+    "wechat",
+    "mp",
+    "spider"
+  ],
+  "author": "lijinma",
+  "license": "ISC"
+}
