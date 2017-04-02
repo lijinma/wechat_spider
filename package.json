@@ -4,7 +4,9 @@
   "description": "Wechat Spider",
   "main": "index.js",
   "dependencies": {
-    "anyproxy": "^3.10.3"
+    "anyproxy": "^3.10.3",
+    "sequelize": "^3.30.4",
+    "sqlite3": "^3.1.8"
   },
   "devDependencies": {},
   "scripts": {
