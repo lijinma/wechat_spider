@@ -1,6 +1,6 @@
 {
   "name": "wechat_spider",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Wechat Spider",
   "main": "index.js",
   "dependencies": {
@@ -8,6 +8,9 @@
     "commander": "^2.9.0",
     "sequelize": "^3.30.4",
     "sqlite3": "^3.1.8"
+  },
+  "bin": {
+    "wechat_spider": "./bin/wechat_spider"
   },
   "devDependencies": {},
   "scripts": {
