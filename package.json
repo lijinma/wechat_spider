@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "anyproxy": "^3.10.3",
+    "commander": "^2.9.0",
     "sequelize": "^3.30.4",
     "sqlite3": "^3.1.8"
   },
@@ -18,6 +19,8 @@
     "mp",
     "spider"
   ],
-  "author": "lijinma",
+  "author": {
+    "lijinma": "lijinma@126.com"
+  },
   "license": "ISC"
 }
