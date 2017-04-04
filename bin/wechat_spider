@@ -5,7 +5,7 @@ var csv = require('../lib/csv.js');
 
 var argValue = '';
 program
-  .version('1.0.3')
+  .version('1.0.4')
   .arguments('csv')
   .action(function (arg) {
     argValue = arg
