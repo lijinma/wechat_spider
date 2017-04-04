@@ -1,6 +1,6 @@
 var proxy = require("anyproxy");
 
-module.exports = function (silent) {
+module.exports = function () {
     //create cert when you want to use https features
     //please manually trust this rootCA when it is the first time you run it
     !proxy.isRootCAFileExists() && proxy.generateRootCA();
