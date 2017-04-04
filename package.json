@@ -1,6 +1,6 @@
 {
   "name": "wechat_spider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Wechat Spider",
   "main": "index.js",
   "dependencies": {
