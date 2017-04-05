@@ -44,9 +44,9 @@ electedCommentNum: 被选择显示的回复数
 
 通过网站 https://nodejs.org/zh-cn/ 下载最新版本。
 
-### 安装 Python
+### 安装 Python 2.x
 
-因为里面依赖 sqlite，中间编译的过程需要 python，所以 Windows 的同学一定要安装一下（注意环境变量），否则会出错。
+因为里面依赖 sqlite，中间编译的过程需要 python 2.x (3.x 不行)，所以 Windows 的同学一定要安装一下（注意环境变量），否则会出错。
 
 通过网站 https://www.python.org/downloads/ 下载 python
 
