@@ -2,10 +2,11 @@
 
 var program = require('commander');
 var csv = require('../lib/csv.js');
+var pkg = require('../package.json');
 
 var argValue = '';
 program
-  .version('1.0.6')
+  .version(pkg.version)
   .arguments('csv')
   .action(function (arg) {
     argValue = arg
