@@ -88,7 +88,7 @@ $ wechat_spider --help
 如果输出以上类似信息，证明 wechat_spider 已经安装成功
 ## 使用
 
-使用分三部，开启代理，手机设置代理，查看公众账号历史记录，接下来就开始自动抓取了。
+使用分四步，开启代理，手机设置代理，查看公众账号历史记录，接下来就开始自动抓取了，最后生成 csv。
 
 ### 首次打开需要安装证书
 
@@ -126,6 +126,12 @@ $ wechat_spider
 
 * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/JHzdMbFtGg.jpeg" width="300px">
 * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/xMEvDZDvoh.jpeg" width="300px">
+
+第四步：等待出现页面“一个公众号采集完成”，就可以生成 csv 了
+
+```bash
+ $ wechat_spider csv
+```
 
 ## LICENSE
 
