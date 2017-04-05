@@ -133,6 +133,13 @@ $ wechat_spider
  $ wechat_spider csv
 ```
 
+## 打赏
+我是金马，一个想搞点事情的程序员。如果这个小工具对你有帮助，你可以请我喝杯咖啡，谢谢 :)
+
+![](http://xiaolai.co/img/alipay.jpeg)
+![](http://xiaolai.co/img/pay.png)
+
+
 ## LICENSE
 
 MIT.
