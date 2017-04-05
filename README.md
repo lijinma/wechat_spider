@@ -107,7 +107,7 @@ $ wechat_spider
 
 第二步：使用手机代理：
 
-* 首次手机需要安装证书，浏览器打开：http://localhost:8002/qr_root，使用微信扫描二维码，[重要] 用浏览器打开：
+* 首次手机需要安装证书，浏览器打开：http://localhost:8002/qr_root ，使用微信扫描二维码，[重要] 用浏览器打开：
 
   * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/F4TiPJwEJ6.jpeg" width="300px">
   * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/ZxKvczMvSn.jpeg" width="300px">
