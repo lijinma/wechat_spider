@@ -18,7 +18,7 @@ wechat_spider
 
 如下是我的公众账号对应的数据：
 
-![file](https://dn-phphub.qbox.me/uploads/images/201704/05/77/yKJRnQ5W9e.png)
+![file](http://dn-phphub.qbox.me/uploads/images/201704/05/77/yKJRnQ5W9e.png)
 
 表格头解释：
 
@@ -109,23 +109,23 @@ $ wechat_spider
 
 * 首次手机需要安装证书，浏览器打开：http://localhost:8002/qr_root ，使用微信扫描二维码，[重要] 用浏览器打开：
 
-  * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/F4TiPJwEJ6.jpeg" width="300px">
-  * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/ZxKvczMvSn.jpeg" width="300px">
-  * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/FydKoJKPST.jpeg" width="300px">
-  * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/zZLmC86N68.jpeg" width="300px">
-  * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/JjVfYze7g5.jpeg" width="300px">
+  * <img src="http://dn-phphub.qbox.me/uploads/images/201704/05/77/F4TiPJwEJ6.jpeg" width="300px">
+  * <img src="http://dn-phphub.qbox.me/uploads/images/201704/05/77/ZxKvczMvSn.jpeg" width="300px">
+  * <img src="http://dn-phphub.qbox.me/uploads/images/201704/05/77/FydKoJKPST.jpeg" width="300px">
+  * <img src="http://dn-phphub.qbox.me/uploads/images/201704/05/77/zZLmC86N68.jpeg" width="300px">
+  * <img src="http://dn-phphub.qbox.me/uploads/images/201704/05/77/JjVfYze7g5.jpeg" width="300px">
 
 * 然后获取到你电脑的 IP 地址，假设是 192.168.1.5
 * 设置手机代理为电脑：
 
-  * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/dX5HXBWT89.jpeg" width="300px">
+  * <img src="http://dn-phphub.qbox.me/uploads/images/201704/05/77/dX5HXBWT89.jpeg" width="300px">
 
-  * <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/bX2Ele6tTp.jpeg" width="300px">
+  * <img src="http://dn-phphub.qbox.me/uploads/images/201704/05/77/bX2Ele6tTp.jpeg" width="300px">
   
 第三步：选择一个微信公众号，点击查看历史记录
 
-* <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/JHzdMbFtGg.jpeg" width="300px">
-* <img src="https://dn-phphub.qbox.me/uploads/images/201704/05/77/xMEvDZDvoh.jpeg" width="300px">
+* <img src="http://dn-phphub.qbox.me/uploads/images/201704/05/77/JHzdMbFtGg.jpeg" width="300px">
+* <img src="http://dn-phphub.qbox.me/uploads/images/201704/05/77/xMEvDZDvoh.jpeg" width="300px">
 
 第四步：等待出现页面“一个公众号采集完成”，就可以生成 csv 了
 
