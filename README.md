@@ -4,6 +4,15 @@ wechat_spider
 [![NPM version](https://badge.fury.io/js/wechat_spider.png)](http://badge.fury.io/js/wechat_spider)
 [![David Status](https://david-dm.org/lijinma/wechat_spider.png)](https://david-dm.org/lijinma/wechat_spider)
 
+<p align="center">
+  <br>
+  <b>创造不息，交付不止</b>
+  <br>
+  <a href="https://www.yousails.com">
+    <img src="https://yousails.com/banners/brand.png" width=350>
+  </a>
+</p>
+
 这个项目是使用打理的方式抓取微信公众账号文章，首先你需要了解一下现在抓取微信公众账号的两种主流方法，请参考我的文章：
 
 [如何优雅的抓取微信公众号历史文章](https://mp.weixin.qq.com/s?__biz=MjM5NDA0Mjc0MQ==&mid=2651552202&idx=1&sn=832cd8e9c4f5babcd20e6a52ee03611e&chksm=bd721fd08a0596c6005f9c77f1c7b1f06fef2cceebd67dde0f33c822f8053d7c521a753c0101&scene=0&key=31688975937a18944006a2d2a5b0c346a7e091a3f473e69af65ebce0e0722a9bdac3cc4281c2eb40f110c3b87a727d8f42b8265a7c1cb20744f74eadf0178023744783aab775c2d47ac7a30b16c65548&ascene=0&uin=OTM1MDQxMDQw)
