@@ -57,7 +57,7 @@ electedCommentNum: 被选择显示的回复数
 
 因为里面依赖 sqlite，通过 [node-gyp](https://github.com/nodejs/node-gyp) 编译的过程中需要 python 2.x (3.x 不行) 以及 VCBuild.exe ，所以 Windows 的同学一定要安装一下，否则会出错。
 
-Windows 用户通过在 cmd 下输入 `npm install --global --production windows-build-tools` 下载安装编译环境依赖。
+Windows 用户通过在具有管理员权限的 PowerShell 下输入 `npm install --global --production windows-build-tools` 下载安装编译环境依赖。
 
 ### 测试 Node 和 Python 安装正确
 
