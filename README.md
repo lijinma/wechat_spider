@@ -4,6 +4,8 @@ wechat_spider
 [![NPM version](https://badge.fury.io/js/wechat_spider.png)](http://badge.fury.io/js/wechat_spider)
 [![David Status](https://david-dm.org/lijinma/wechat_spider.png)](https://david-dm.org/lijinma/wechat_spider)
 
+##【提醒】此抓取工具因为微信 api 修改无法跑通，请参考代码思路。
+
 <p align="center">
   <br>
   <b>创造不息，交付不止</b>
