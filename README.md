@@ -55,11 +55,11 @@ electedCommentNum: 被选择显示的回复数
 
 通过网站 https://nodejs.org/zh-cn/ 下载最新版本。
 
-### 安装 Python 2.x
+### 安装 Python 2.x 等编译环境依赖
 
-因为里面依赖 sqlite，中间编译的过程需要 python 2.x (3.x 不行)，所以 Windows 的同学一定要安装一下（注意环境变量），否则会出错。
+因为里面依赖 sqlite，通过 [node-gyp](https://github.com/nodejs/node-gyp) 编译的过程中需要 python 2.x (3.x 不行) 以及 VCBuild.exe ，所以 Windows 的同学一定要安装一下，否则会出错。
 
-通过网站 https://www.python.org/downloads/ 下载 python
+Windows 用户通过在具有管理员权限的 PowerShell 下输入 `npm install --global --production windows-build-tools` 下载安装编译环境依赖。
 
 ### 测试 Node 和 Python 安装正确
 
