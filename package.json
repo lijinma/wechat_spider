@@ -6,6 +6,7 @@
   "dependencies": {
     "anyproxy": "^3.10.3",
     "commander": "^2.9.0",
+    "html-entities": "^1.2.1",
     "iconv": "^2.2.3",
     "sequelize": "^3.30.4",
     "sqlite3": "^4.0.8"
